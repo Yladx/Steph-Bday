@@ -3,7 +3,7 @@ body{
 	font-family: 'Delius Swash Caps', cursive;
 	text-align: center;
 	color: #004466;
-	background: linear-gradient(135deg, rgba(255,255,255,0.3) 0%, rgba(135,206,235,0.4) 25%, rgba(70,130,180,0.5) 50%, rgba(30,58,138,0.6) 75%, rgba(15,23,42,0.7) 100%);
+	background: linear-gradient(135deg, #ffffff 0%, #e3f0ff 30%, #b3d8ff 60%, #87CEEB 85%, #4682B4 100%);
 	display: flex;
   	align-items: center;
   	justify-content: center;
